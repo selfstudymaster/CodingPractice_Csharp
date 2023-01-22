@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EA630001-72B1-4D73-9D3D-0DCB1BEF7691}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingPractice_Csharp/Program.cs">
+    <Files>
+      <File FileName="CodingPractice_Csharp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingPractice_Csharp" expanded="True" selected="True">
+            <Node name="CodingPractice_Csharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CodingPractice__Csharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
